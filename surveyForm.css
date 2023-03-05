@@ -1,5 +1,5 @@
 body{
-	background-color: rgb(255, 150, 230);
+	background-color: rgb(7, 175, 181);
 	width: 90%;
 	height: 100%;
 	text-align: center;
@@ -69,7 +69,7 @@ width: 300px;
 
 .submit{
 
-border-color:  rgb(255, 150, 236);
+border-color:  rgb(7, 177, 180);
 border-radius: 3em;
 font-size: larger;
 margin-top: 50px;
